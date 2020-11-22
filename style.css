@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(241, 241, 241);
+    color: #333;
+    margin: 1%;
+    padding: 2%;
+}
+
+h1{
+    color: #721919;
+}
+
+#myCanvas{
+    border: 1px solid #e9f815;
+    
+}
